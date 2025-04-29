@@ -1,0 +1,7 @@
+Flask==3.0.3
+flask-cors==5.0.0
+requests==2.32.3
+re==2.2.1
+random==0.1.0
+time==0.1.0
+logging==0.5.1.2
