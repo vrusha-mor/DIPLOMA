@@ -6,7 +6,7 @@ import datetime
 import warnings
 import requests
 from io import BytesIO
-from shared.constants import GEMINI_API_KEY, ELEVEN_LABS_API_KEY
+from mind_verse_api.main_voice_app import GEMINI_API_KEY, ELEVEN_LABS_API_KEY
 from flask_cors import CORS  # Import the CORS package
 
 
